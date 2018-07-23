@@ -1,37 +1,7 @@
 {
-	"AcceptGifts": false,
-	"AutoSteamSaleEvent": true,
-	"BotBehaviour": 0,
-	"CustomGamePlayedWhileFarming": Smash Bros. Ultimate,
-	"CustomGamePlayedWhileIdle": Melee City,
-	"Enabled": true,
-	"FarmingOrders": [],
-	"GamesPlayedWhileIdle": [],
-	"HandleOfflineMessages": false,
-	"HoursUntilCardDrops": 3,
-	"IdlePriorityQueueOnly": false,
-	"IdleRefundableGames": true,
-	"LootableTypes": [
-		1,
-		3,
-		5
-	],
-	"MatchableTypes": [
-		5
-	],
-	"OnlineStatus": 1,
-	"PasswordFormat": 0,
-	"Paused": false,
-	"RedeemingPreferences": 0,
-	"SendOnFarmingFinished": false,
-	"SendTradePeriod": 0,
-	"ShutdownOnFarmingFinished": false,
-	"SteamLogin": "electic91",
-	"SteamMasterClanID": 0,
-	"SteamParentalPIN": "0",
-	"SteamPassword": "Snoopy911",
-	"SteamTradeToken": null,
-	"SteamUserPermissions": {},
-	"TradingPreferences": 0,
-	"UseLoginKeys": true
+  "SteamLogin": "electic91",
+  "SteamPassword": "Snoopy911",
+  "Enabled": true,
+  "CustomGamePlayedWhileFarming": "Super Smash Bros. Ultimate",
+  "CustomGamePlayedWhileIdle": "Fitness Center"
 }
